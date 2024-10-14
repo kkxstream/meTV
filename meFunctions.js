@@ -21,16 +21,16 @@ function changeCH(ch){
 		var hls = new Hls();
 
         if(ch == "ch12"){
-            ch = 'https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8';
+            ch = 'http://applelive.in/selfeetv/selfeetv.m3u8';
         }
         else if(ch == "ch11"){
-            ch = 'https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8';
+            ch = 'http://live.applelive.in/shatv/shatv.m3u8';
         }
         else if(ch == "ch10"){
-            ch = 'https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8';
+            ch = 'http://applelive.in/appletv/appletv.m3u8';
         }
         else if(ch == "ch9"){
-            ch = 'https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true';
+            ch = 'http://live.applelive.in/riyatv/riyatv.m3u8';
         }
         else if(ch == "ch8"){
             ch = 'https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true';
